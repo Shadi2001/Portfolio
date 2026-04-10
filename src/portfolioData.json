@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Fund",
+    "description": "A Smart Platform For Funding Projects, Eductional, Medical Loans",
+    "image": "/images/smart.jpg",
+    "url": "https://smart-fund.netlify.app/",
+    "technologies": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "id": 2,
+    "title": "Frame Media Production",
+    "description": "Creative Media Studio that produces videos for businesses and individuals.",
+    "image": "/images/frame.png",
+    "url": "https://frame-media.netlify.app/",
+    "technologies": ["React", "Tailwind CSS", "TypeScript"]
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "Beautiful weather dashboard with location-based forecasts",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=600&fit=crop",
+    "url": "https://aleppoweather.netlify.app/",
+    "technologies": ["React", "API Integration", "CSS3"]
+  },
+  {
+    "id": 4,
+    "title": "Todo List",
+    "description": "A simple todo list app that allows you to add, edit, and delete tasks",
+    "image": "/images/Todo.jpg",
+    "url": "https://task-2-do.netlify.app/",
+    "technologies": ["html", "css", "javascript"]
+  },
+  {
+    "id": 5,
+    "title": "Dev Events",
+    "description": "The Hub for Every DevEvent You Can't Miss, Hackathons, Meetups, and Conferences, All in One Place",
+    "image": "/images/event1.png",
+    "url": "https://dev-eventss.netlify.app/",
+    "technologies": ["Next.js", "Tailwind CSS", "TypeScript"]
+  },
+  {
+    "id": 6,
+    "title": "Lavender Events",
+    "description": "Lavender Events is a platform for event management and ticketing",
+    "image": "/images/lavender.jpg",
+    "url": "https://lavender-events.netlify.app/",
+    "technologies": ["html", "css", "javascript"]
+  }
+]
+
