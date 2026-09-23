@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "title": "Pharma Care",
+    "description": "A website for pharmaceutical companies.",
+    "image": "/images/pharma.jpg",
+    "url": "https://pharmacaresy.io/",
+    "technologies": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "id": 2,
     "title": "Smart Fund",
     "description": "A Smart Platform For Funding Projects, Eductional, Medical Loans",
     "image": "/images/smart.jpg",
@@ -8,15 +16,15 @@
     "technologies": ["React", "Node.js", "MongoDB"]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Frame Media Production",
     "description": "Creative Media Studio that produces videos for businesses and individuals.",
     "image": "/images/frame.png",
-    "url": "https://frame-media.netlify.app/",
+    "url": "https://framemediaproduction.netlify.app/#",
     "technologies": ["React", "Tailwind CSS", "TypeScript"]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Weather Dashboard",
     "description": "Beautiful weather dashboard with location-based forecasts",
     "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=600&fit=crop",
@@ -24,7 +32,7 @@
     "technologies": ["React", "API Integration", "CSS3"]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Todo List",
     "description": "A simple todo list app that allows you to add, edit, and delete tasks",
     "image": "/images/Todo.jpg",
@@ -32,7 +40,7 @@
     "technologies": ["html", "css", "javascript"]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Dev Events",
     "description": "The Hub for Every DevEvent You Can't Miss, Hackathons, Meetups, and Conferences, All in One Place",
     "image": "/images/event1.png",
@@ -40,7 +48,7 @@
     "technologies": ["Next.js", "Tailwind CSS", "TypeScript"]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Lavender Events",
     "description": "Lavender Events is a platform for event management and ticketing",
     "image": "/images/lavender.jpg",
